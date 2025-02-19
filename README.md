@@ -103,12 +103,12 @@ docker-compose up --build
   - Sell: When SMA50 crosses below SMA200
 - Calculate strategy returns and accuracy
 
-![image](https://github.com/user-attachments/assets/9c9f554a-13df-492d-935a-baed8033c6f4)
 
 
 
 #### Result 
 ![image](https://github.com/user-attachments/assets/9d9c3bcc-f684-465c-8a0c-bd25a96ebe6a)
+![image](https://github.com/user-attachments/assets/9c9f554a-13df-492d-935a-baed8033c6f4)
 
 
 
