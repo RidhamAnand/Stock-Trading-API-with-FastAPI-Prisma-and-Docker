@@ -3,7 +3,7 @@
 A robust, containerized FastAPI-based Stock Trading API that leverages PostgreSQL for market data storage and Prisma ORM for database operations. The API provides comprehensive endpoints for stock data management and implements a Moving Average Crossover strategy for trading signals.
 
 ## 🚀 Access APIs
-Access the Swagger UI at http://0.0.0.0:8000/docs
+Access the APIs at http://0.0.0.0:8000/docs
 
 ![Swagger UI](https://github.com/user-attachments/assets/d93e99e5-16b8-42a9-bc89-4c6460d0a0dc)
 
